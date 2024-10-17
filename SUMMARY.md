@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Intermediate Grammar Project](README.md)
+* [Present Perfect Tense](present-perfect-tense.md)
+* [Past Participles](past-participles.md)
+* [Frequently Used Adverbs](frequently-used-adverbs.md)
+* [Present Perfect Progressive](present-perfect-progressive.md)
+* [The Present Perfect vs Present Perfect Continuous](the-present-perfect-vs-present-perfect-continuous.md)
+* [Past Perfect](past-perfect.md)
+* [Past Perfect Progressive (Continuous)](past-perfect-progressive-continuous.md)
+* [Modal Verbs and Phrasal Verbs](modal-verbs-and-phrasal-verbs.md)
+* [Formal and informal Modals](formal-and-informal-modals.md)
+* [Adjective Order](adjective-order.md)
+* [Adjective Clauses with Subject vs Object Pronouns](adjective-clauses-with-subject-vs-object-pronouns.md)
+* [Every vs each](every-vs-each.md)
+* [Confusing Prepositions](confusing-prepositions.md)
+* [Phrasal Verbs](phrasal-verbs.md)
+* [Collocations](collocations.md)
